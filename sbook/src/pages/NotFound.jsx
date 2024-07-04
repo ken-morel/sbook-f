@@ -1,3 +1,5 @@
 function NotFound() {
-return
+  return (
+    <p>Not Found</p>
+  );
 }

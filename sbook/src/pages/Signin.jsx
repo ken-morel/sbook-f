@@ -1,7 +1,7 @@
-// import './assets/css/styles.sass';
-// import './assets/css/w3.css';
+import './../assets/css/styles.sass';
+import './../assets/css/w3.css';
 // import Captcha from './captcha.jsx';
-import './assets/css/signin.sass';
+import './../assets/css/signin.sass';
 import {useState} from 'react';
 import $ from 'jquery';
 let jQuery = $;
