@@ -1,0 +1,2653 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"w3-ba",
+				"w3-bar"
+			],
+			[
+				"backgroi",
+				"background-position-y"
+			],
+			[
+				"l",
+				"large"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"w3-border-gr",
+				"w3-border-grey"
+			],
+			[
+				"Na",
+				"NavBar"
+			],
+			[
+				"cla",
+				"classrooms"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"setT",
+				"setTimeout"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"w3-border-li",
+				"w3-border-light-grey"
+			],
+			[
+				"left",
+				"w3-left-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"s",
+				"stars"
+			],
+			[
+				"b",
+				"bookmarks"
+			],
+			[
+				"sb",
+				"sbookAccount"
+			],
+			[
+				"Use",
+				"User"
+			],
+			[
+				"ng-re",
+				"ng-repeat"
+			],
+			[
+				"is",
+				"is_student"
+			],
+			[
+				"labl",
+				"label="
+			],
+			[
+				"Not",
+				"NotADirectoryError"
+			],
+			[
+				"Arg",
+				"ArgumentParser"
+			],
+			[
+				"ns",
+				"answers"
+			],
+			[
+				"lo",
+				"loads"
+			],
+			[
+				"ty",
+				"type_match"
+			],
+			[
+				"__",
+				"__init_subclass__"
+			],
+			[
+				"an",
+				"answers"
+			],
+			[
+				"tok",
+				"tokenize"
+			],
+			[
+				"di",
+				"difflib_score"
+			],
+			[
+				"co",
+				"cosine_score"
+			],
+			[
+				"jacc",
+				"jaccard_score"
+			],
+			[
+				"sim",
+				"simple_similarity"
+			],
+			[
+				"cos",
+				"cosine_similarity"
+			],
+			[
+				"to",
+				"tokenize"
+			],
+			[
+				"C",
+				"Counter"
+			],
+			[
+				"Ex",
+				"Exception"
+			],
+			[
+				"handle",
+				"handleAuthResult"
+			],
+			[
+				"sig",
+				"google-signin"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"pat",
+				"pattern_id"
+			],
+			[
+				"que",
+				"questions"
+			],
+			[
+				"qu",
+				"questions"
+			],
+			[
+				"__i",
+				"__init_subclass__"
+			],
+			[
+				"p",
+				"preprocess_text"
+			],
+			[
+				"le",
+				"lemmatizer"
+			],
+			[
+				"Fa",
+				"FaqModel"
+			],
+			[
+				"F",
+				"FaqModel"
+			],
+			[
+				"be",
+				"best_score"
+			],
+			[
+				"bes",
+				"best_score"
+			],
+			[
+				"pa",
+				"pattern"
+			],
+			[
+				"Exp",
+				"Expression"
+			],
+			[
+				"Im",
+				"ImportError"
+			],
+			[
+				"pr",
+				"property"
+			],
+			[
+				"ma",
+				"markdown"
+			],
+			[
+				"r",
+				"random"
+			],
+			[
+				"Call",
+				"Callback"
+			],
+			[
+				"isg",
+				"isgeneratorfunction"
+			],
+			[
+				"IN",
+				"INSTANCES"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"profile",
+				"profile_path"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"N",
+				"DO_NOTHING"
+			],
+			[
+				"defau",
+				"default="
+			],
+			[
+				"rel",
+				"related_name="
+			],
+			[
+				"Us",
+				"UserRole"
+			],
+			[
+				"ch",
+				"choices="
+			],
+			[
+				"Cla",
+				"Classroom"
+			],
+			[
+				"cl",
+				"classroom"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"clas",
+				"classrooms"
+			],
+			[
+				"function",
+				"function_without_name"
+			],
+			[
+				"fun",
+				"function_without_name"
+			],
+			[
+				"w3-border-pa",
+				"w3-border-pale-blue"
+			],
+			[
+				"w3-border",
+				"w3-border-bottom"
+			],
+			[
+				"w3-round-",
+				"w3-round-large"
+			],
+			[
+				"textC",
+				"textContent"
+			],
+			[
+				"w3-pa",
+				"w3-padding"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"w3-cont",
+				"w3-container"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"w3-c",
+				"w3-center"
+			],
+			[
+				"w3-pale",
+				"w3-pale-green"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"f",
+				"fawesome"
+			],
+			[
+				"Typ",
+				"TypeError"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"HttpResponseN",
+				"HttpResponseNotFound"
+			],
+			[
+				"te",
+				"teachers"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"ca",
+				"cached_property"
+			],
+			[
+				"Htt",
+				"HttpResponseNotFound"
+			],
+			[
+				"image",
+				"imagename"
+			],
+			[
+				"ng-",
+				"ng-bind"
+			],
+			[
+				"readAs",
+				"readAsText"
+			],
+			[
+				"File",
+				"FileReader"
+			],
+			[
+				"getEl",
+				"getElementById"
+			],
+			[
+				"w3-left",
+				"w3-left-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"no",
+				"note_doc"
+			],
+			[
+				"ov",
+				"overflow-anchor"
+			],
+			[
+				"qui",
+				"quizzes"
+			],
+			[
+				"Qu",
+				"Quizz"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"pango",
+				"pango-entry"
+			],
+			[
+				"getE",
+				"getElementById"
+			],
+			[
+				"grey",
+				"lightgrey"
+			],
+			[
+				"backro",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"w3-con",
+				"w3-container"
+			],
+			[
+				"ba",
+				"background-position-y"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"cha",
+				"chatbot"
+			],
+			[
+				"sn",
+				"snote"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sbook/src/App.jsx",
+			"settings":
+			{
+				"buffer_size": 906,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import React from 'react';\n\nclass LoginForm extends React.Component {\n    contructor(props) {\n        super(props);\n    }\n    render() {\n        return (\n            \n\n        );\n    }\n}\n",
+			"file": "sbook/src/LoginForm.jsx",
+			"file_size": 206,
+			"file_write_time": 133645690749496548,
+			"settings":
+			{
+				"buffer_size": 187,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "f"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "rom"
+					},
+					"AwAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAQAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAAAQAAAAAAAAABQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AQAAAAQAAAAAAAAAHQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAeAAAAZnJvbWltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCcK",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					12,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAGQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAABoAAAAAAAAAGwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "\n\nclass"
+					},
+					"BwAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " L"
+					},
+					"AgAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "oginForm"
+					},
+					"CAAAACMAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACkAAAAAAAAAAAAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": " exten"
+					},
+					"BgAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC4AAAAAAAAAAAAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "ds"
+					},
+					"AgAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": " r"
+					},
+					"AgAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					22,
+					1,
+					"left_delete",
+					null,
+					"AQAAADQAAAAAAAAANAAAAAAAAAABAAAAcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA1AAAAAAAAADUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "React"
+					},
+					"BQAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": ".Com"
+					},
+					"BAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA5AAAAAAAAADkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "pon"
+					},
+					"AwAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "ent"
+					},
+					"AwAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAABCAAAAAAAAAEMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEMAAAAAAAAARAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAEQAAAAAAAAARgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAAAAAAAAAEQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					29,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABGAAAAAAAAAEoAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFAAAAAAAAAEUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "contru"
+					},
+					"BgAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABKAAAAAAAAAEoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "ctor"
+					},
+					"BAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAFQAAAAAAAAAVgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFYAAAAAAAAAVwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABWAAAAAAAAAFYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					35,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAFcAAAAAAAAAWQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABXAAAAAAAAAFcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABdAAAAAAAAAAAAAABdAAAAAAAAAF4AAAAAAAAAAAAAAF4AAAAAAAAAYgAAAAAAAAAAAAAAWQAAAAAAAABZAAAAAAAAAAQAAAAgICAgWQAAAAAAAABhAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABYAAAAAAAAAFgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "props"
+					},
+					"BgAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAWgAAAAAAAABaAAAAAAAAAAgAAAAgICAgICAgIFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABVAAAAAAAAAFUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					41,
+					1,
+					"reindent",
+					null,
+					"AQAAAF4AAAAAAAAAZgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABeAAAAAAAAAF4AAAAAAAAAAAAAAACgZEA"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "super"
+					},
+					"BQAAAGYAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGkAAAAAAAAAAAAAAGkAAAAAAAAAagAAAAAAAAAAAAAAagAAAAAAAABrAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABmAAAAAAAAAGYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					43,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAGsAAAAAAAAAbQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrAAAAAAAAAGsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "props"
+					},
+					"BQAAAGwAAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAG8AAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABxAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABsAAAAAAAAAGwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAHIAAAAAAAAAcwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAByAAAAAAAAAHIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAHkAAAAAAAAAegAAAAAAAAAAAAAAegAAAAAAAAB+AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB5AAAAAAAAAHkAAAAAAAAAAAAAAACgZUA"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "re"
+					},
+					"AgAAAH4AAAAAAAAAfwAAAAAAAAAAAAAAfwAAAAAAAACAAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB+AAAAAAAAAH4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "nder"
+					},
+					"BAAAAIAAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACCAAAAAAAAAAAAAACCAAAAAAAAAIMAAAAAAAAAAAAAAIMAAAAAAAAAhAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					55,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAIQAAAAAAAAAhgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACEAAAAAAAAAIQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIYAAAAAAAAAhwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACGAAAAAAAAAIYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					58,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAIcAAAAAAAAAiQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACHAAAAAAAAAIcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					59,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAIgAAAAAAAAAiQAAAAAAAAAAAAAAiQAAAAAAAACNAAAAAAAAAAAAAACNAAAAAAAAAI4AAAAAAAAAAAAAAI4AAAAAAAAAkgAAAAAAAAAAAAAAiQAAAAAAAACJAAAAAAAAAAQAAAAgICAgiQAAAAAAAACRAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACIAAAAAAAAAIgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "<f"
+					},
+					"AgAAAJEAAAAAAAAAkgAAAAAAAAAAAAAAkgAAAAAAAACTAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACRAAAAAAAAAJEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					61,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJIAAAAAAAAAkgAAAAAAAAABAAAAZpEAAAAAAAAAkQAAAAAAAAABAAAAPA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACTAAAAAAAAAJMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": "return"
+					},
+					"BgAAAJEAAAAAAAAAkgAAAAAAAAAAAAAAkgAAAAAAAACTAAAAAAAAAAAAAACTAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAlQAAAAAAAAAAAAAAlQAAAAAAAACWAAAAAAAAAAAAAACWAAAAAAAAAJcAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACRAAAAAAAAAJEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJcAAAAAAAAAmAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACXAAAAAAAAAJcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					64,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAJgAAAAAAAAAmgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACYAAAAAAAAAJgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAJoAAAAAAAAAmwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACaAAAAAAAAAJoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BwAAAJkAAAAAAAAAmgAAAAAAAAAAAAAAmgAAAAAAAACiAAAAAAAAAAAAAACaAAAAAAAAAJoAAAAAAAAACAAAACAgICAgICAgmgAAAAAAAACmAAAAAAAAAAAAAACmAAAAAAAAAKcAAAAAAAAAAAAAAKcAAAAAAAAAswAAAAAAAAAAAAAAmgAAAAAAAACaAAAAAAAAAAwAAAAgICAgICAgICAgICA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACZAAAAAAAAAJkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					69,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKMAAAAAAAAAowAAAAAAAAAEAAAAICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACnAAAAAAAAAKcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					73,
+					1,
+					"reindent",
+					null,
+					"AQAAAJoAAAAAAAAApgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACaAAAAAAAAAJoAAAAAAAAAAAAAAACAUEA"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": "<>"
+					},
+					"AgAAAKYAAAAAAAAApwAAAAAAAAAAAAAApwAAAAAAAACoAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACmAAAAAAAAAKYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAKgAAAAAAAAAqQAAAAAAAAAAAAAAqQAAAAAAAAC1AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACoAAAAAAAAAKgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": "form"
+					},
+					"BQAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqgAAAAAAAACqAAAAAAAAAAwAAAAgICAgICAgICAgICCoAAAAAAAAAKkAAAAAAAAAAAAAAKkAAAAAAAAAqgAAAAAAAAAAAAAAqgAAAAAAAACrAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACnAAAAAAAAAKcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKYAAAAAAAAApgAAAAAAAAAGAAAAPGZvcm0+",
+					"AQAAAAAAAAABAAAArAAAAAAAAACmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "form"
+					},
+					"BAAAAKYAAAAAAAAApwAAAAAAAAAAAAAApwAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKkAAAAAAAAAAAAAAKkAAAAAAAAAqgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKkAAAAAAAAAqQAAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAqgAAAAAAAACqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "m"
+					},
+					"AQAAAKkAAAAAAAAAqgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKkAAAAAAAAAqQAAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAqgAAAAAAAACqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "m"
+					},
+					"AQAAAKkAAAAAAAAAqgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					4,
+					"left_delete",
+					null,
+					"BAAAAKkAAAAAAAAAqQAAAAAAAAABAAAAbagAAAAAAAAAqAAAAAAAAAABAAAAcqcAAAAAAAAApwAAAAAAAAABAAAAb6YAAAAAAAAApgAAAAAAAAABAAAAZg",
+					"AQAAAAAAAAABAAAAqgAAAAAAAACqAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "Microsoft Windows [Version 6.3.9600]                                                                                                \n(c) 2013 Microsoft Corporation. All rights reserved.                                                                             \n                                                                                                                                 \nC:\\sbook-f\\sbook>npx vite                                                                                                        \n                                                                                                                                 \n  VITE v5.3.3  ready in 2294 ms                                                                                                  \n                                                                                                                                 \n  ➜  Local:   http://localhost:5173/                                                                                             \n  ➜  Network: use --host to expose                                                                                               \n  ➜  press h + enter to show help                                                                                                \nTerminate batch job (Y/N)? y                                                                                                     \n                                                                                                                                 \nC:\\sbook-f\\sbook>npx vite --port 80                                                                                              \n                                                                                                                                 \n  VITE v5.3.3  ready in 496 ms                                                                                                   \n                                                                                                                                 \n  ➜  Local:   http://localhost:80/                                                                                               \n  ➜  Network: use --host to expose                                                                                               \n  ➜  press h + enter to show help                                                                                                \nTerminate batch job (Y/N)? y                                                                                                     \n                                                                                                                                 \nC:\\sbook-f\\sbook>npm install firebase                                                                                            \nnpm error code ECONNRESET                                                                                                        \nnpm error syscall read                                                                                                           \nnpm error errno ECONNRESET                                                                                                       \nnpm error network request to https://registry.npmjs.org/firebase failed, reason: read ECONNRESET                                 \nnpm error network This is a problem related to network connectivity.                                                             \nnpm error network In most cases you are behind a proxy or have bad network settings.                                             \nnpm error network                                                                                                                \nnpm error network If you are behind a proxy, please make sure that the                                                           \nnpm error network 'proxy' config is set properly.  See: 'npm help config'                                                        \nnpm error A complete log of this run can be found in: C:\\Users\\CHEF SEC\\AppData\\Local\\npm-cache\\_logs\\2024-07-04T11_45_26_705Z-de​‌​\nbug-0.log                                                                                                                        \n                                                                                                                                 \nC:\\sbook-f\\sbook>npm install firebase                                                                                            \n|^CTerminate batch job (Y/N)? Y                                                                                                  \n                                                                                                                                 \nC:\\sbook-f\\sbook>Y                                                                                                               \n'Y' is not recognized as an internal or external command,                                                                        \noperable program or batch file.                                                                                                  \n                                                                                                                                 \nC:\\sbook-f\\sbook>npm install firebase                                                                                            \nnpm warn cleanup Failed to remove some directories [                                                                             \nnpm warn cleanup   [                                                                                                             \nnpm warn cleanup     'C:\\\\sbook-f\\\\sbook\\\\node_modules\\\\@firebase\\\\firestore',                                                   \nnpm warn cleanup     [Error: ENOTEMPTY: directory not empty, rmdir 'C:\\sbook-f\\sbook\\node_modules\\@firebase\\firestore\\dist'] {   \nnpm warn cleanup       errno: -4051,                                                                                             \nnpm warn cleanup       code: 'ENOTEMPTY',                                                                                        \nnpm warn cleanup       syscall: 'rmdir',                                                                                         \nnpm warn cleanup       path: 'C:\\\\sbook-f\\\\sbook\\\\node_modules\\\\@firebase\\\\firestore\\\\dist'                                      \nnpm warn cleanup     }                                                                                                           \nnpm warn cleanup   ],                                                                                                            \nnpm warn cleanup   [                                                                                                             \nnpm warn cleanup     'C:\\\\sbook-f\\\\sbook\\\\node_modules\\\\@firebase',                                                              \nnpm warn cleanup     [Error: ENOTEMPTY: directory not empty, rmdir 'C:\\sbook-f\\sbook\\node_modules\\@firebase\\firestore\\dist'] {   \nnpm warn cleanup       errno: -4051,                                                                                             \nnpm warn cleanup       code: 'ENOTEMPTY',                                                                                        \nnpm warn cleanup       syscall: 'rmdir',                                                                                         \nnpm warn cleanup       path: 'C:\\\\sbook-f\\\\sbook\\\\node_modules\\\\@firebase\\\\firestore\\\\dist'                                      \nnpm warn cleanup     }                                                                                                           \nnpm warn cleanup   ]                                                                                                             \nnpm warn cleanup ]                                                                                                               \nnpm error code ECONNRESET                                                                                                        \nnpm error syscall read                                                                                                           \nnpm error errno -4077                                                                                                            \nnpm error network read ECONNRESET                                                                                                \nnpm error network This is a problem related to network connectivity.                                                             \nnpm error network In most cases you are behind a proxy or have bad network settings.                                             \nnpm error network                                                                                                                \nnpm error network If you are behind a proxy, please make sure that the                                                           \nnpm error network 'proxy' config is set properly.  See: 'npm help config'                                                        \nnpm error A complete log of this run can be found in: C:\\Users\\CHEF SEC\\AppData\\Local\\npm-cache\\_logs\\2024-07-04T12_00_45_228Z-de​‌​\nbug-0.log                                                                                                                        \n                                                                                                                                 \nC:\\sbook-f\\sbook>npm install firebase                                                                                            \n^CTerminate batch job (Y/N)? Y                                                                                                   \n                                                                                                                                 \nC:\\sbook-f\\sbook>npm uninstall firebase                                                                                          \n^CTerminate batch job (Y/N)? Y                                                                                                   \n                                                                                                                                 \nC:\\sbook-f\\sbook>npm uninstall firebase                                                                                          \n^CTerminate batch job (Y/N)? Y                                                                                                   \n                                                                                                                                 \nC:\\sbook-f\\sbook>npm install firebase                                                                                            \n\\",
+			"settings":
+			{
+				"buffer_size": 10930,
+				"line_ending": "Windows",
+				"name": "npm install firebase",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					957,
+					18,
+					"terminus_render",
+					null,
+					"NgAAALEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAXLEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAALbEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					958,
+					10,
+					"terminus_render",
+					null,
+					"HgAAALEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAALbEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					959,
+					14,
+					"terminus_render",
+					null,
+					"KgAAALEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAALbEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAL7EqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					960,
+					16,
+					"terminus_render",
+					null,
+					"MAAAALEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					961,
+					16,
+					"terminus_render",
+					null,
+					"MAAAALEqAAAAAAAAsSoAAAAAAAABAAAALbEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					962,
+					16,
+					"terminus_render",
+					null,
+					"MAAAALEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					963,
+					15,
+					"terminus_render",
+					null,
+					"LQAAALEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					964,
+					17,
+					"terminus_render",
+					null,
+					"MwAAALEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAfLEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					965,
+					16,
+					"terminus_render",
+					null,
+					"MAAAALEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAL7EqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					966,
+					17,
+					"terminus_render",
+					null,
+					"MwAAALEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAL7EqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					967,
+					16,
+					"terminus_render",
+					null,
+					"MAAAALEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					968,
+					15,
+					"terminus_render",
+					null,
+					"LQAAALEqAAAAAAAAsSoAAAAAAAABAAAAXLEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					969,
+					15,
+					"terminus_render",
+					null,
+					"LQAAALEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					970,
+					14,
+					"terminus_render",
+					null,
+					"JwAAALEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					971,
+					16,
+					"terminus_render",
+					null,
+					"MAAAALEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					972,
+					15,
+					"terminus_render",
+					null,
+					"LQAAALEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAXLEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					973,
+					16,
+					"terminus_render",
+					null,
+					"MAAAALEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					974,
+					17,
+					"terminus_render",
+					null,
+					"MwAAALEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAXLEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					975,
+					17,
+					"terminus_render",
+					null,
+					"MwAAALEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAL7EqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAILIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					976,
+					16,
+					"terminus_render",
+					null,
+					"MAAAALEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					977,
+					16,
+					"terminus_render",
+					null,
+					"MAAAALEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					978,
+					16,
+					"terminus_render",
+					null,
+					"LQAAALEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAfLEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					979,
+					11,
+					"terminus_render",
+					null,
+					"IQAAALEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					980,
+					5,
+					"terminus_render",
+					null,
+					"DwAAALEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAfLEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					981,
+					11,
+					"terminus_render",
+					null,
+					"IQAAALEqAAAAAAAAsioAAAAAAAAAAAAAsioAAAAAAAAyKwAAAAAAAAAAAACyKgAAAAAAALIqAAAAAAAAgAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgsSoAAAAAAACyKgAAAAAAAAEAAAAtsioAAAAAAAAyKwAAAAAAAAAAAACyKgAAAAAAALIqAAAAAAAAgAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgsSoAAAAAAACyKgAAAAAAAAEAAAB8sioAAAAAAAAyKwAAAAAAAAAAAACyKgAAAAAAALIqAAAAAAAAgAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgsSoAAAAAAACyKgAAAAAAAAEAAAAvsioAAAAAAAAyKwAAAAAAAAAAAACyKgAAAAAAALIqAAAAAAAAgAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgsSoAAAAAAACyKgAAAAAAAAEAAAAtsioAAAAAAAAyKwAAAAAAAAAAAACyKgAAAAAAALIqAAAAAAAAgAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgsSoAAAAAAACyKgAAAAAAAAEAAABcsioAAAAAAAAyKwAAAAAAAAAAAACyKgAAAAAAALIqAAAAAAAAgAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgsSoAAAAAAACyKgAAAAAAAAEAAAB8sioAAAAAAAAyKwAAAAAAAAAAAACyKgAAAAAAALIqAAAAAAAAgAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgsSoAAAAAAACyKgAAAAAAAAEAAAAvsioAAAAAAAAyKwAAAAAAAAAAAACyKgAAAAAAALIqAAAAAAAAgAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgsSoAAAAAAACyKgAAAAAAAAEAAAAtsioAAAAAAAAyKwAAAAAAAAAAAACyKgAAAAAAALIqAAAAAAAAgAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgsSoAAAAAAACyKgAAAAAAAAEAAABcsioAAAAAAAAyKwAAAAAAAAAAAACyKgAAAAAAALIqAAAAAAAAgAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgsSoAAAAAAACyKgAAAAAAAAEAAAB8sioAAAAAAAAyKwAAAAAAAAAAAACyKgAAAAAAALIqAAAAAAAAgAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACxKgAAAAAAALEqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					982,
+					5,
+					"terminus_render",
+					null,
+					"DwAAALEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					983,
+					6,
+					"terminus_render",
+					null,
+					"EgAAALEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					984,
+					15,
+					"terminus_render",
+					null,
+					"KgAAALEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAfLEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					985,
+					3,
+					"terminus_render",
+					null,
+					"CQAAALEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					986,
+					19,
+					"terminus_render",
+					null,
+					"OQAAALEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAL7EqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAL7EqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAALbEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					987,
+					9,
+					"terminus_render",
+					null,
+					"GwAAALEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAL7EqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					988,
+					11,
+					"terminus_render",
+					null,
+					"IQAAALEqAAAAAAAAsioAAAAAAAABAAAAILIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAALbEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAXLEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					989,
+					4,
+					"terminus_render",
+					null,
+					"DAAAALEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					990,
+					15,
+					"terminus_render",
+					null,
+					"LQAAALEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAALbEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					991,
+					13,
+					"terminus_render",
+					null,
+					"JwAAALEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAfLEqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAILIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsSoAAAAAAAABAAAAXLEqAAAAAAAAMisAAAAAAAAAAAAAsSoAAAAAAACxKgAAAAAAAIEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCxKgAAAAAAALIqAAAAAAAAAAAAALIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					992,
+					11,
+					"terminus_render",
+					null,
+					"HgAAALEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAXLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					993,
+					5,
+					"terminus_render",
+					null,
+					"DwAAALEqAAAAAAAAsioAAAAAAAABAAAAfLIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAAL7IqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILEqAAAAAAAAsioAAAAAAAABAAAALbIqAAAAAAAAMisAAAAAAAAAAAAAsioAAAAAAACyKgAAAAAAAIAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACyKgAAAAAAALIqAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"contents": "Microsoft Windows [Version 6.3.9600]                                                                                                \n(c) 2013 Microsoft Corporation. All rights reserved.                                                                             \n                                                                                                                                 \nC:\\sbook-f>npm i sass\n                                                                                                                                 \nadded 17 packages in 1m                                                                                                          \n                                                                                                                                 \n3 packages are looking for funding                                                                                               \n  run `npm fund` for details                                                                                                     \n\nC:\\sbook-f>npm fund\nsbook-f                                                                                                                          \n`-- https://paulmillr.com/funding/                                                                                               \n  | `-- chokidar@3.6.0                                                                                                           \n  +-- https://github.com/sponsors/jonschlinkert                                                                                  \n  |   `-- picomatch@2.3.1                                                                                                        \n  `-- https://github.com/sponsors/sindresorhus                                                                                   \n      `-- binary-extensions@2.3.0                                                                                                \n                                                                                                                                 \n\nC:\\sbook-f>",
+			"settings":
+			{
+				"buffer_size": 2138,
+				"line_ending": "Windows",
+				"name": " ",
+				"scratch": true
+			}
+		},
+		{
+			"file": "sbook/index.html",
+			"settings":
+			{
+				"buffer_size": 727,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN0AAAAAAAAA3QAAAAAAAAAMAAAAVml0ZSArIFJlYWN0",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADdAAAAAAAAAOkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "sbook"
+					},
+					"BQAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA3gAAAAAAAADfAAAAAAAAAAAAAADfAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA4QAAAAAAAADiAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADdAAAAAAAAAN0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAOoAAAAAAAAA6wAAAAAAAAAAAAAA6wAAAAAAAADvAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADqAAAAAAAAAOoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"paste_and_indent",
+					null,
+					"AQAAAO8AAAAAAAAAKgIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADvAAAAAAAAAO8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"BAAAALwBAAAAAAAAvQEAAAAAAAAAAAAAvQEAAAAAAADDAQAAAAAAAAAAAAC9AQAAAAAAAL0BAAAAAAAABgAAACAgICAgIL0BAAAAAAAAxQEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC8AQAAAAAAALwBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"BAAAAN8BAAAAAAAA4AEAAAAAAAAAAAAA4AEAAAAAAADoAQAAAAAAAAAAAADgAQAAAAAAAOABAAAAAAAACAAAACAgICAgICAg4AEAAAAAAADmAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADfAQAAAAAAAN8BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					42,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAUCAAAAAAAABQIAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGAgAAAAAAAAYCAAAAAAAAAAAAAACASEA"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAALsBAAAAAAAAvAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC7AQAAAAAAALsBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					56,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOsAAAAAAAAA6wAAAAAAAAAiAAAAICAgIDwhLS0gR29vZ2xlIHRhZyAoZ3RhZy5qcykgLS0+Cg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADrAAAAAAAAAA0BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\nform"
+					},
+					"BQAAAJACAAAAAAAAkQIAAAAAAAAAAAAAkQIAAAAAAACSAgAAAAAAAAAAAACSAgAAAAAAAJMCAAAAAAAAAAAAAJMCAAAAAAAAlAIAAAAAAAAAAAAAlAIAAAAAAACVAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAIAAAAAAACQAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"expand_snippet",
+					null,
+					"AgAAAJECAAAAAAAAkQIAAAAAAAAEAAAAZm9ybZECAAAAAAAA7gIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQIAAAAAAACVAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AgAAANQCAAAAAAAA1AIAAAAAAAAMAAAAaW5kZXhfc3VibWl0nwIAAAAAAACfAgAAAAAAAAwAAABpbmRleF9zdWJtaXQ",
+					"AQAAAAAAAAACAAAAnwIAAAAAAACrAgAAAAAAAAAAAAAAAPC/1AIAAAAAAADgAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAANYCAAAAAAAA1wIAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAAnwIAAAAAAACfAgAAAAAAAAAAAAAAAPC/yAIAAAAAAADIAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/black.sublime-build",
+					""
+				],
+				[
+					"Packages/User/go.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/go.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				],
+				[
+					"Packages/User/Django.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Django.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				],
+				[
+					"Packages/User/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Django.sublime-build",
+					"pylint"
+				]
+			],
+			[
+				"Packages/User/Django.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Django.sublime-build",
+					"pylint"
+				]
+			],
+			[
+				"Packages/User/Django.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Sbook",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				]
+			],
+			[
+				"Packages/subliminal/Django.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/black.sublime-build",
+					""
+				],
+				[
+					"Packages/User/go.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/sass.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/go.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sphinx.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/sass.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/sass.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: Di",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: D",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"open",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"Package Control: Add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"\nd",
+			"\nimport socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49491))"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/sbook-f",
+		"/C/sbook-f/sbook",
+		"/C/sbook-f/sbook/src"
+	],
+	"file_history":
+	[
+		"/C/sbook-f/sbook/src/App.jsx",
+		"/C/Sbook/sbook/templates/main.django",
+		"/C/sbook-f/sbook/package.json",
+		"/C/Users/CHEF SEC/AppData/Roaming/Sublime Text/Packages/User/WakaTime.sublime-settings",
+		"/C/Sbook/staticfiles/scripts/sbook.js",
+		"/C/Sbook/school/templates/school-browse.djhtml",
+		"/C/Sbook/staticfiles/particles/navbar.json",
+		"/C/Sbook/staticfiles/styles/base.sass",
+		"/C/Sbook/school/templates/school-index.djhtml",
+		"/C/Sbook/staticfiles/scripts/response.js",
+		"/C/Sbook/sbook/templates/index.django",
+		"/C/Sbook/sbook/templates/pango.djhtml",
+		"/C/Sbook/run.py",
+		"/C/Sbook/staticfiles/py/pango.py",
+		"/C/pyoload/src/pyoload/__init__.py",
+		"/C/Sbook/school/templates/school-main.djhtml",
+		"/C/Sbook/note/templates/note-main.django",
+		"/C/Sbook/note/templates/note-dashboard.django",
+		"/C/Sbook/note/accounts.py",
+		"/C/Sbook/note/views.py",
+		"/C/Sbook/note/urls.py",
+		"/C/Sbook/sbook/templates/firebase.djhtml",
+		"/C/sublime_text/Data/Packages/subliminal/subliminal-Python.sublime-syntax",
+		"/C/Sbook/sbook/accounts.py",
+		"/C/Sbook/sbook/forms.py",
+		"/C/Sbook/sbook/views.py",
+		"/C/Sbook/faqs.yaml",
+		"/C/Sbook/staticfiles/styles/styles.sass",
+		"/C/Sbook/sbook/settings.py",
+		"/C/Sbook/sbook/urls.py",
+		"/C/Sbook/staticfiles/styles/note-styles.sass",
+		"/C/Sbook/staticfiles/staticfiles.json",
+		"/C/Sbook/djamago/__init__.py",
+		"/C/Sbook/pango/__init__.py",
+		"/C/api/pyoloady.py",
+		"/C/sublime_merge/Data/Packages/User/Commit Message.sublime-settings",
+		"/C/Sbook/pango/topics/main.py",
+		"/C/Sbook/pango/topics/faq.py",
+		"/C/Program Files (x86)/Python311-32/Lib/argparse.py",
+		"/C/Sbook/faqs.py",
+		"/C/Users/CHEF SEC/AppData/Roaming/Python/Python311-32/site-packages/pyoload/__init__.py",
+		"/C/Sbook/note/models.py",
+		"/C/Sbook/sbook/templates/google-signin.django",
+		"/C/Sbook/sbook/templates/signin.django",
+		"/C/Sbook/requirements.txt",
+		"/C/Sbook/sbook/models.py",
+		"/C/sublime_text/Data/Packages/subliminal/c_func_def.py",
+		"/C/Sbook/test.py",
+		"/C/Sbook/djamago/faq.py",
+		"/C/Sbook/pango/expressions.py",
+		"/C/djamago/README.md",
+		"/C/Sbook/pango/topics/markdown.py",
+		"/C/Sbook/pango/topics/__init__.py",
+		"/C/Sbook/pango/conversations.log",
+		"/C/Sbook/pango/pango.py",
+		"/C/Sbook/school/models.py",
+		"/C/Sbook/image/gen-linkedin.py",
+		"/C/Sbook/quizz/accounts.py",
+		"/C/Sbook/sbook/templates/signup.django",
+		"/C/Sbook/sbook/templates/captcha.django",
+		"/C/Sbook/faqs.rst",
+		"/C/Sbook/notes.rst",
+		"/C/Sbook/school/accounts.py",
+		"/C/Sbook/school/views.py",
+		"/C/Sbook/school/urls.py",
+		"/C/Sbook/utils/spellcheck/correction.py",
+		"/C/Sbook/utils/__init__.py",
+		"/C/Sbook/staticfiles/wordlists/en.txt",
+		"/C/Sbook/pango/chatbot/spellcheck/__init__.py",
+		"/C/Sbook/utils/spellcheck/__init__.py",
+		"/C/Sbook/quizz/templates/view-quizz-attempts.django",
+		"/C/Sbook/quizz/templates/quizz-attempt-view-part.django",
+		"/C/Sbook/quizz/templates/quizz-attempt-view-remarks.django",
+		"/C/Sbook/staticfiles/styles/quizz-styles.sass",
+		"/C/Sbook/sbook/__init__.py",
+		"/C/Sbook/pango/chatbot/__init__.py",
+		"/C/Sbook/quizz/models.py",
+		"/C/Sbook/sbook/templates/dashboard.django",
+		"/C/Sbook/quizz/templates/quizz-dashboard.django",
+		"/C/Sbook/pango/pango.tmpl",
+		"/C/Sbook/quizz/urls.py",
+		"/C/Sbook/quizz/views.py",
+		"/C/sublime_merge/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/sublime_merge/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Sbook/pango/chatbot/learn.py",
+		"/C/Sbook/sbook/templates/user-profile.djhtml",
+		"/C/Sbook/quizz/templates/quizz-browse.djhtml",
+		"/C/Sbook/quizz/templates/quizz-attempt.django",
+		"/C/Sbook/quizz/templates/quizz-new.django",
+		"/C/Sbook/media/media/profiles/not-found_HxU8w9W.jpg",
+		"/C/Sbook/quizz/templates/quizz-main.django",
+		"/C/djamago/main.py",
+		"/C/Sbook/chatbot/__init__.py",
+		"/C/Sbook/note/templates/short-notes/side-bar.django",
+		"/C/Sbook/note/short_notes.py",
+		"/C/ken-morel.github.io/README.md",
+		"/C/Sbook/sbook/templatetags/markdown.py",
+		"/C/Sbook/quizz/templates/quizz-preview.django",
+		"/C/Sbook/note/admin.py",
+		"/C/djamago/djamago.tmpl",
+		"/C/Sbook/README.md",
+		"/C/Microsoft-chatbot/chatbotTemplate/msbot.template",
+		"/C/Sbook/profile_images.py",
+		"/C/Sbook/school/admin.py",
+		"/C/Sbook/classroom/admin.py",
+		"/C/Sbook/classroom/models.py",
+		"/C/Sbook/image/antimony.svg",
+		"/C/Sbook/note/migrations/0003_note_classrooms_note_courses_note_levels.py",
+		"/C/Sbook/sbook/templates/profile.djhtml",
+		"/C/Sbook/sbook/templates/base.djhtml",
+		"/C/Sbook/note/migrations/0007_notecontent_rename_user_bookmark_author_and_more.py",
+		"/C/Sbook/note/migrations/0006_alter_note_description.py",
+		"/C/Sbook/media/profiles/random/random-profiles.json",
+		"/C/Sbook/sbook/admin.py",
+		"/C/Sbook/sbook/templates/martor-dependencies.djhtml",
+		"/C/Sbook/quizz/admin.py",
+		"/C/Sbook/staticfiles/styles/w3.css",
+		"/C/Sbook/image/gen.py",
+		"/C/Sbook/image/quizz-header.png",
+		"/C/Sbook/staticfiles/scripts/angular.min.js",
+		"/C/sublime_text/Data/Packages/subliminal/subliminal-qndroid.sublime-syntax",
+		"/C/Windows/glance.bat",
+		"/C/glance/internal/feed/polygon.go",
+		"/C/Sbook/quizz/templates/quizz-view-part.django",
+		"/C/Sbook/api/settings.py",
+		"/C/Sbook/quizz/templates/quizz-attempt-review.django",
+		"/C/Sbook/staticfiles/styles/quizz-styles.css",
+		"/C/Users/CHEF SEC/dashing-test.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sbook/src/App.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Neon.sublime-color-scheme",
+							"color_helper.refresh": true,
+							"rainbow_checked": true,
+							"syntax": "Packages/JavaScript/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sbook/src/LoginForm.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Neon.sublime-color-scheme",
+							"color_helper.refresh": true,
+							"rainbow_checked": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10930,
+								10930
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_helper.refresh": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"font_face": "Lucide Console",
+							"font_size": 10,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"rainbow_checked": true,
+							"result_base_dir": "C:\\sbook-f\\sbook",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								[
+									50,
+									"dotted"
+								],
+								[
+									79,
+									"solid",
+									2
+								],
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 704,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"cmd.exe"
+								],
+								"cwd": "C:\\sbook-f\\sbook",
+								"default_title": "Command Prompt",
+								"env":
+								{
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"reactivable": true,
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.reactivable": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 675.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2138,
+								2138
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_helper.refresh": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"font_face": "Lucide Console",
+							"font_size": 10,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"rainbow_checked": true,
+							"result_base_dir": "C:\\sbook-f",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								[
+									50,
+									"dotted"
+								],
+								[
+									79,
+									"solid",
+									2
+								],
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 3,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"cmd.exe"
+								],
+								"cwd": "C:\\sbook-f",
+								"default_title": "Command Prompt",
+								"env":
+								{
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"reactivable": true,
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.reactivable": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 0.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sbook/index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								726,
+								726
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Neon.sublime-color-scheme",
+							"color_helper.refresh": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": true,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1720096430.62,
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+							},
+							"rainbow_checked": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 67.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 134.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 108.0
+	},
+	"output.Terminus 4":
+	{
+		"height": 146.0
+	},
+	"output.Terminus 5":
+	{
+		"height": 126.0
+	},
+	"output.Terminus 6":
+	{
+		"height": 220.0
+	},
+	"output.diff_views":
+	{
+		"height": 527.0
+	},
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gotools_syntax_errors":
+	{
+		"height": 98.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 126.0
+	},
+	"output.stino_panel":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "sbook-f.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 689.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\djamago\\djamago.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
