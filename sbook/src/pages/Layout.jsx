@@ -1,19 +1,17 @@
 import { Outlet, Link } from "react-router-dom";
+import NavBar from './../NavBar.jsx';
 
 const Layout = () => {
   return (
     <>
-      <nav>
-        <ul>
-          <li>
-            <Link to="/">Index</Link>
-          </li>
-          <li>
-            <Link to="/signin">Signin</Link>
-          </li>
-        </ul>
-      </nav>
-      <Outlet />
+      <div id="left">
+        <NavBar />
+      </div>
+      <div id="center">
+        <Outlet />
+      </div>
+      <div id="right">
+      </div>
     </>
   )
 };

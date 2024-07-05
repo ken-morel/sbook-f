@@ -2,9 +2,7 @@ import $ from 'jquery';
 
 function Captcha() {
     function recaptchaSubmit(token) {
-        //alert('captcha' + token.toString());
-
-        $('#recaptchaButton{{ captcha_name }}')
+        $('#recaptchaButton')
             .html("Answerred")
             .css({
                 transition: "2s",
@@ -12,15 +10,14 @@ function Captcha() {
             .addClass('w3-green');
         setTimeout(
             function() {
-                $('#recaptchaButton{{ captcha_name }}')
+                $('#recaptchaButton')
                     .slideUp(1000);
             },
             1000
         );
         try {
             $('form')[0].submit();
-            var input = document.createElement('input');
-            input.type = "submit";
+            var input = <input type="submit"/>;
 
             $('form')[0].appendChild(input);
             input.click();
